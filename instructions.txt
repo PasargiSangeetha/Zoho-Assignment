@@ -1,0 +1,5 @@
+Contact Management App:
+1. Signup page is avaailable on the screen, where signup details such as Emailid, Password and Secret code is to be filled.
+2. If aldready signup, click on signin button, it redirects to the signin page which consists of emailid and Password.
+3. The contct form is opened, fill all the details such as Name, Phone number and Emailid and it must be saved by clicking save button.
+4. Then table is opened where allthe details filled in the contactform are available, and again we can contact details by clicking add button by which can update more number of contacts.
